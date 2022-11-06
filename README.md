@@ -1,5 +1,5 @@
 
-# MOBILEO-CITY
+## :tada: MOBILEO-CITY
 This project develop in android this is device info app.
 MOBILEO-CITY is a detailed specification of your android phone which includes all the possible hardware configuration and other required details about your own device.
 
@@ -12,11 +12,7 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 ![Screenshot 2022-08-29 163638](https://user-images.githubusercontent.com/112378013/187193862-7d49c460-deb5-4161-8d51-2bd0ae7d2a0f.png)
 ![Screenshot 2022-08-29 163712](https://user-images.githubusercontent.com/112378013/187193889-582dca59-677d-4d58-b1d6-22aa8e8cc2bb.png)
 
-
-
-
-
-# MAIN FEATURES:
+## :tada: MAIN FEATURES:
 
 ★ CPU detail
 
@@ -36,7 +32,7 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 
 ★ OS Detail
 
-# OTHER EXCITED FEATURES:
+## :tada:OTHER EXCITED FEATURES:
 
 ❥ Move-able to any storage
 
@@ -48,11 +44,14 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 
 ❥ Small in Size
 
-# Contact us for source codes
+## :tada: CONTACT ME FOR SOURCE CODES_NOW_:
+
 Your desired place for software development.High-quality software guaranteed.
 
-whatsapp now: +923165363716
+<a href="https://wa.link/9qbuj3"><img src="https://www.invoco.net/wp-content/uploads/2021/09/Whatsapp-Business-01-768x269.png" width="230" height="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.link/fhwlj4"><img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="170" height="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# VISIT US ON facebook
 
-https://www.facebook.com/%F0%9D%99%86%F0%9D%99%96%F0%9D%99%A5%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%96%F0%9D%99%A3-%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%A3%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%9C%F0%9D%99%9E%F0%9D%99%9A%F0%9D%99%A8-100925909427353/
+## :tada: VISIT ME ON SOCIAL MEDIA
+
+<a href="https://web.facebook.com/people/%F0%9D%99%86%F0%9D%99%96%F0%9D%99%A5%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%96%F0%9D%99%A3-%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%A3%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%9C%F0%9D%99%9E%F0%9D%99%9A%F0%9D%99%A8/100085431930554/"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/facebook_logo_icon_189224.png" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/kaptaan_technologies.pk"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

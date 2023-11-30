@@ -48,10 +48,10 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 
 Your desired place for software development.High-quality software guaranteed.
 
-<a href="https://wa.link/fhwlj4"><img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="170" height="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.link/1f2deb"><img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="170" height="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## :tada: VISIT ME ON SOCIAL MEDIA
 
-<a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/facebook_logo_icon_189224.png" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img src="https://images.app.goo.gl/MAUwbSujRazdQiH67" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

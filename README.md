@@ -43,3 +43,10 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 ❥ Simple & Beautiful UI
 
 ❥ Small in Size
+
+### Find this useful? ❤️
+Support it by joining stargazers to this. ⭐
+
+Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+

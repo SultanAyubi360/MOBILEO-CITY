@@ -1,7 +1,24 @@
+## Device Info: System & CPU Info
+
+Device Info is a user-friendly mobile application that provides comprehensive information about your device's hardware and software. You can monitor real-time data on your device's CPU, GPU, RAM, OS, Sensors, Storage, Battery, Wifi, Bluetooth, Network, Apps, Display, Camera, and Thermal performance. Additionally, you can use device Info/ phone Info to run hardware tests and benchmark your device. 
 
 ## :tada: MOBILEO-CITY
 This project develop in android this is device info app.
 MOBILEO-CITY is a detailed specification of your android phone which includes all the possible hardware configuration and other required details about your own device.
+
+📊 Dashboard: Overview of your device's software and hardware info, including RAM, Internal Storage, External Storage, Battery, CPU, Sensors Available, and Apps Installed.
+
+📱 Device: Device Name, Model, Manufacturer, Manufactured Date, Device Age, Device, Board, Hardware, Brand, IMEI, Hardware Serial, SIM Serial, SIM Subscriber, Network Operator, Network Type, Build Fingerprint & USB Host.
+
+⚙️ System: Get information about OS Version, Code Name, API Level, Released Version, One UI Version, Security Patch Level, Bootloader, Build Number, Baseband, Java VM, Kernel, Language, Root App, Google Play Services, Vulkan Support, Treble, Seamless Updates, OpenGL ES & System Uptime.
+
+🎚️ CPU: Display all details about the System on Chip(SoC), Processors, CPU Architecture, Supported ABIs, CPU Hardware, CPU Governor, Number of Cores, CPU Frequency, GPU Renderer, GPU Vendor & GPU Version.
+
+🔋 Battery: Monitor your battery's health, level, status, power source, technology, temperature, voltage, power (watts), current (mA), and capacity in real time.
+
+🌐 Network: Show information about IP Address, Gateway, Subnet Mask, DNS, Lease Duration, Interface, Frequency, Wifi Standard, Security & Link Speed.
+
+🛜 Connectivity: Get details of your device's connectivity options, such as Wifi, Bluetooth, NFC, Ultra-Wideband, and USB.
 
 ![Screenshot 2022-08-29 162600](https://user-images.githubusercontent.com/112378013/187191736-5349c7c3-4b72-41d0-9e57-b8dc7e66602f.png)
 ![Screenshot 2022-08-29 162704](https://user-images.githubusercontent.com/112378013/187191836-72dd52a1-46fa-41c4-835e-92dc815f454d.png)

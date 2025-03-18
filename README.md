@@ -20,6 +20,17 @@ MOBILEO-CITY is a detailed specification of your android phone which includes al
 
 🛜 Connectivity: Get details of your device's connectivity options, such as Wifi, Bluetooth, NFC, Ultra-Wideband, and USB.
 
+📟 Display: Display Details including Resolution, Density, Font Scale, Physical Size, Refresh Rates, HDR, HDR Capabilities, Brightness, Screen Timeout, Orientation.
+
+💾 Memory: RAM, RAM Type, RAM Frequency, ROM, Internal Storage & External Storage.
+
+📡 Sensors: Details of all sensors, including Sensor Name, Sensor Vendor, Type, Power, Wake-Up or Dynamic Sensor & Maximum Range
+
+📚 Apps: Detailed info about User Apps and Installed Apps, including App Version, Minimum OS, Target OS, Permissions, Activities, Services, Providers, Receivers & Extract App Apks
+
+🔍 App Analyzer: Analyze all your applications with the help of advanced graphs. You can also group them by target SDK, min SDK, install location, platform, installer & signature.
+
+
 ![Screenshot 2022-08-29 162600](https://user-images.githubusercontent.com/112378013/187191736-5349c7c3-4b72-41d0-9e57-b8dc7e66602f.png)
 ![Screenshot 2022-08-29 162704](https://user-images.githubusercontent.com/112378013/187191836-72dd52a1-46fa-41c4-835e-92dc815f454d.png)
 ![Screenshot 2022-08-29 162800](https://user-images.githubusercontent.com/112378013/187192006-e6d48048-c252-4bcc-9cec-4afcd56b6197.png)

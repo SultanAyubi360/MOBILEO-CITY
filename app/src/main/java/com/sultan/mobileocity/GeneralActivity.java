@@ -41,6 +41,7 @@ public class GeneralActivity extends AppCompatActivity {
             actionBar.setDisplayShowHomeEnabled(true);
         }
 
+
         long miliSec = uptimeMillis();
                 String upTime = String.format("%02d:%02d:%02d", TimeUnit.MILLISECONDS.toHours(miliSec),
                 TimeUnit.MILLISECONDS.toHours(miliSec),

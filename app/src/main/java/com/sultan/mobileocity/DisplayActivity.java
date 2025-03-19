@@ -25,6 +25,7 @@ public class DisplayActivity extends AppCompatActivity {
     private String titles[];
     private String descriptions[];
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
